@@ -1,4 +1,4 @@
-# GRF from instrumented insoles Pre-Processing Pipeline
+#Pre-Processing and Machine Learning Pipeline for Instrumented Insole GRFs
 
 ## Description
 
