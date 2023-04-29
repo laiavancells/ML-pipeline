@@ -1,4 +1,4 @@
-# Automatic Characterisation of Treadmill Incline and Walking Speed- Pre-Processing Pipeline
+# GRF from instrumented insoles Pre-Processing Pipeline
 
 ## Description
 
